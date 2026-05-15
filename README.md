@@ -167,7 +167,8 @@ graphics_project.exe
 
 ## 🌙 Night Environment with Lighting Effects
 
-![Night Scene] <img width="1358" height="691" alt="Screenshot 2026-05-15 114215" src="https://github.com/user-attachments/assets/27efb865-b24e-4fbe-9734-64380f94a96a" />
+![Night Scene] <img width="1361" height="696" alt="image" src="https://github.com/user-attachments/assets/89607c3e-d5b9-4f37-a14a-ccb7c5218607" />
+
 
 
 ---
